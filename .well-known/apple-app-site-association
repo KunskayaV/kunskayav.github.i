@@ -6,13 +6,12 @@
    },
   "applinks": {
     "apps": [
-      "53APD5F9YQ.com.epam.events.debug"
     ],
     "details": [
       {
         "appID": "53APD5F9YQ.com.epam.events.debug",
         "paths": [
-          "*", "/", "/*"
+          "*"
         ]
       }
     ]
