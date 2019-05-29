@@ -13,7 +13,6 @@
         "paths": [
           "NOT /events",
           "NOT /events/",
-          "NOT /events/*/*",
           "NOT /speakers",
           "NOT /speakers/",
           "/events/*",
