@@ -15,7 +15,7 @@
           "NOT /events/",
           "NOT /events/*/*",
           "/events/*",
-          "/events/\d*/talks/\d*",
+          "/events/?????/talks/?????",
           "/speakers/*"
         ]
       }
