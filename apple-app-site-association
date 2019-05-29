@@ -11,7 +11,10 @@
       {
         "appID": "53APD5F9YQ.com.epam.events.debug",
         "paths": [
+          "NOT /events",
+          "NOT /events/",
           "/events/*",
+          "NOT /events/*/*",
           "/events/*/talks/*",
           "/speakers/*"
         ]
