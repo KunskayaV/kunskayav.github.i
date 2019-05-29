@@ -16,10 +16,11 @@
           "NOT /speakers",
           "NOT /speakers/",
           "/events/*",
+          "/speakers/?",
+          "/speakers/??",
           "/speakers/???",
           "/speakers/????",
           "/speakers/?????",
-          "/speakers/??????",
         ]
       }
     ]
